@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Front end dev & Back end dev.
 - 💞️ I’m looking to collaborate on any type of company that is capable of helping me achieve my goals in software development in general.
 - 📫 How to reach me ...
-              Discord:  ΛDЯΛƧBӨBӨK#5779
               Linkedin: Idris El Badaoui
+              email: adrasijdr@gmail.com
 
 <!---
 ADRASBOBOK/ADRASBOBOK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
